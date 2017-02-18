@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyApplication2</string>
+    <string name="tea">TEAM 1</string>
+    <string name="team">TEAM 2</string>
+    <string name="button1">+3</string>
+    <string name="button2">+2</string>
+    <string name="button3">THROW</string>
+    <string name="button4">+3</string>
+    <string name="button5">+2</string>
+    <string name="button6">THROW</string>
+    <string name="button7">RESET</string>
+</resources>
